@@ -1,2 +1,10 @@
-# VESTEL-V-TAB-7020A-TWRP-DEV-CE
-tek sorunu ekran geç açılıyor ama yakında çözülücektir :)
+# Android device tree for VESTEL V_TAB_7020A (V_TAB_7020A)
+
+```
+#
+# Copyright (C) 2026 The Android Open Source Project
+# Copyright (C) 2026 SebaUbuntu's TWRP device tree generator
+#
+# SPDX-License-Identifier: Apache-2.0
+#
+```
